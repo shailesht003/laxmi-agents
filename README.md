@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="social-preview.png" alt="Vesh Agents — Agentic Revenue Intelligence" width="800">
+  <img src="social-preview.png" alt="Laxmi Agents — Agentic Revenue Intelligence" width="800">
 </p>
 
 <p align="center">
-  <h1 align="center">Vesh Agents</h1>
+  <h1 align="center">Laxmi Agents</h1>
   <p align="center">
     <strong>Open-source agentic framework for revenue intelligence</strong>
   </p>
@@ -13,21 +13,21 @@
   <p align="center">
     <a href="https://pypi.org/project/vesh-agents/"><img src="https://img.shields.io/pypi/v/vesh-agents?color=blue&label=PyPI" alt="PyPI"></a>
     <a href="https://pepy.tech/project/vesh-agents"><img src="https://img.shields.io/pepy/dt/vesh-agents?color=green&label=Downloads" alt="Downloads"></a>
-    <a href="https://github.com/shailesht003/vesh-agents/actions/workflows/ci.yml"><img src="https://github.com/shailesht003/vesh-agents/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-    <a href="https://github.com/shailesht003/vesh-agents/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License"></a>
+    <a href="https://github.com/shailesht003/laxmi-agents/actions/workflows/ci.yml"><img src="https://github.com/shailesht003/laxmi-agents/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+    <a href="https://github.com/shailesht003/laxmi-agents/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License"></a>
     <a href="https://pypi.org/project/vesh-agents/"><img src="https://img.shields.io/pypi/pyversions/vesh-agents" alt="Python"></a>
-    <a href="https://github.com/shailesht003/vesh-agents"><img src="https://img.shields.io/github/stars/shailesht003/vesh-agents?style=social" alt="Stars"></a>
-    <a href="https://github.com/shailesht003/vesh-agents"><img src="https://img.shields.io/github/forks/shailesht003/vesh-agents?style=social" alt="Forks"></a>
+    <a href="https://github.com/shailesht003/laxmi-agents"><img src="https://img.shields.io/github/stars/shailesht003/laxmi-agents?style=social" alt="Stars"></a>
+    <a href="https://github.com/shailesht003/laxmi-agents"><img src="https://img.shields.io/github/forks/shailesht003/laxmi-agents?style=social" alt="Forks"></a>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=shailesht003-vesh-agents&label=Repo%20Views&color=blueviolet&style=flat" alt="Views">
+    <img src="https://komarev.com/ghpvc/?username=shailesht003-laxmi-agents&label=Repo%20Views&color=blueviolet&style=flat" alt="Views">
   </p>
 </p>
 
 ---
 
-## What is Vesh Agents?
+## What is Laxmi Agents?
 
-Vesh Agents is an agentic AI framework for business data analysis, starting with SaaS revenue intelligence. Built on the [OpenAI Agents SDK](https://github.com/openai/openai-agents-python), it provides:
+Laxmi Agents (PyPI: `vesh-agents`) is an agentic AI framework for business data analysis, starting with SaaS revenue intelligence. Built on the [OpenAI Agents SDK](https://github.com/openai/openai-agents-python), it provides:
 
 - **6 specialized agents** that work together as a pipeline
 - **BYOM (Bring Your Own Model)** — use Claude, DeepSeek, GPT, Llama, or any LiteLLM-compatible model
@@ -46,9 +46,9 @@ pip install vesh-agents
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shailesht003/vesh-agents/main/assets/demo.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shailesht003/vesh-agents/main/assets/demo.svg">
-    <img alt="Vesh Agents terminal demo" src="https://raw.githubusercontent.com/shailesht003/vesh-agents/main/assets/demo.svg" width="820">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shailesht003/laxmi-agents/main/assets/demo.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shailesht003/laxmi-agents/main/assets/demo.svg">
+    <img alt="Laxmi Agents terminal demo" src="https://raw.githubusercontent.com/shailesht003/laxmi-agents/main/assets/demo.svg" width="820">
   </picture>
 </p>
 
